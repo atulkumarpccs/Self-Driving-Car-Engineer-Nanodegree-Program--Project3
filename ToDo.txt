@@ -1,0 +1,4 @@
+//watch once again the to run the simulator 
+1.setup all the things as per requirement
+2. Project Resource here for Windows 10.
+3. Add the data for the same.
