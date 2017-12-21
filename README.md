@@ -7,7 +7,7 @@ The third  assignement project  in Term 1 for submission.
 [Udacity Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
 
 In this project, your goal is to write a software pipeline to identify the lane boundaries in a video from a front-facing camera on a car. The camera calibration images, test road images, and project videos are available in 
-<https://github.com/udacity/CarND-Advanced-Lane-Lines>
+<https://github.com/udacity/CarND-Behavioral-Cloning-P3>
 
 ## Submission Requirment :
 
@@ -55,6 +55,7 @@ Follow the Udacity instructions to launch an EC2 GPU instance with the udacity-c
 Complete the Setup instructions. 
 
  ### Build Steps :
+ 
  ```sh
  1.All steps are based on windows 10 environement.
  
