@@ -13,13 +13,13 @@ In this project, your goal is to write a software pipeline to identify the lane 
 
 For this project, a reviewer will be testing the model that you generated on the first test track (the one to the left in the track selection options).
 
- 1.``model.py``` - The script used to create and train the model.
+ 1.``model.py`` - The script used to create and train the model.
  
  2.``drive.py`` - The script to drive the car. You can feel free to resubmit the original drive.py or make modifications and submit your modified version.
  
  3.``model.h5`` - The saved model. Here is the documentation explaining how to create this file. 
  
- 4. ``writeup_report``- as a markdown or pdf file. It should explain the structure of your network and training approach. The writeup must also include examples of images from the dataset in the discussion of the characteristics of the dataset. While we recommend using English for good practice, writing in any language is acceptable (reviewers will translate). There is no minimum word count so long as there are complete descriptions of the problems and the strategies. See the rubric and the writeup_template.md for more details about the expectations.
+ 4.``writeup_report``- as a markdown or pdf file. It should explain the structure of your network and training approach. The writeup must also include examples of images from the dataset in the discussion of the characteristics of the dataset. While we recommend using English for good practice, writing in any language is acceptable (reviewers will translate). There is no minimum word count so long as there are complete descriptions of the problems and the strategies. See the rubric and the writeup_template.md for more details about the expectations.
  
  5.``video.mp4`` - A video recording of your vehicle driving autonomously at least one lap around the track.
  
