@@ -9,22 +9,24 @@
 **Behavioral Cloning Project**
 
 The goals / steps of this project are the following:
-* Use the simulator to collect data of good driving behavior
-* Build, a convolution neural network in Keras that predicts steering angles from images
-* Train and validate the model with a training and validation set
-* Test that the model successfully drives around track one without leaving the road
-* Summarize the results with a written report
+```sh
+1. Use the simulator to collect data of good driving behavior
+2. Build, a convolution neural network in Keras that predicts steering angles from images
+3.Train and validate the model with a training and validation set
+4.Test that the model successfully drives around track one without leaving the road
+5.Summarize the results with a written report
+```
 
 
 [//]: # (Image References)
 
-[image1]: ./examples/placeholder.png "Model Visualization"
-[image2]: ./examples/placeholder.png "Grayscaling"
-[image3]: ./examples/placeholder_small.png "Recovery Image"
-[image4]: ./examples/placeholder_small.png "Recovery Image"
-[image5]: ./examples/placeholder_small.png "Recovery Image"
-[image6]: ./examples/placeholder_small.png "Normal Image"
-[image7]: ./examples/placeholder_small.png "Flipped Image"
+[image1]:  ./Examples/placeholder.png "Model Visualization"
+[image2]: ./Examples/placeholder.png "Grayscaling"
+[image3]: ./Examples/placeholder_small.png "Recovery Image"
+[image4]: ./Examples/placeholder_small.png "Recovery Image"
+[image5]: ./Examples/placeholder_small.png "Recovery Image"
+[image6]: ./Examples/placeholder_small.png "Normal Image"
+[image7]: ./Examples/placeholder_small.png "Flipped Image"
 
 ## Rubric Points
 ###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.  
@@ -35,10 +37,11 @@ The goals / steps of this project are the following:
 ####1. Submission includes all required files and can be used to run the simulator in autonomous mode
 
 My project includes the following files:
-* model.py containing the script to create and train the model
-* drive.py for driving the car in autonomous mode
-* model.h5 containing a trained convolution neural network 
-* writeup_report.md or writeup_report.pdf summarizing the results
+```sh
+1.``model.py`` containing the script to create and train the model
+2.``drive.py`` for driving the car in autonomous mode
+3.``model.h5`` containing a trained convolution neural network 
+4.``writeup_report.md`` or ``writeup_report.pdf`` summarizing the results
 
 ####2. Submission includes functional code
 Using the Udacity provided simulator and my drive.py file, the car can be driven autonomously around the track by executing 
