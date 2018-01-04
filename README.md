@@ -133,11 +133,9 @@ Will run the video at 48 FPS. The default FPS is 60.
 
 4. Go to the project_submission directory
 
-5. Run >>jupyter notebook P4.ipynb
+5. Follow the above instructions & cloning cheatsheet
 
-6. Run shell one by one 
-
-7. Output video take time wait :)
+6. Output video take time wait :)
 
 ```
 
