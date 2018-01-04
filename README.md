@@ -171,12 +171,29 @@ Complete the Setup instructions.
  ```  
    
  ### Known Issues :
+ 
  ```sh
+ 
  1.Set up is not done for personal Linux environment.
  
  2.Some of package for python are installed manually.
  
  3. AWS setup is not working as per support project so done locally.
+ 
  ```
  
+ ### From Git to Github :
+ 
+ 
+ 1. Cloning the repository by using command ```git clone Self-Driving-Car-Engineer-Nanodegree-Program--Project5 ```.
+ 
+ 2. Make changes and run the command ```git status``` for changed in local repository.
+ 
+ 3. Add all files in one command  ```git add .```
+ 
+ 4. Commit the code base by ```git commit -m "your comment" ```
+ 
+ 5. Check the github repository if you done change on github ```git pull origin master```
+ 
+ 6. Push your code by ```git push origin master```
 
