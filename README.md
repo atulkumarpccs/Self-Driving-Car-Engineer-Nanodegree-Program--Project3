@@ -185,7 +185,7 @@ Complete the Setup instructions.
  ### From Git to Github :
  
  
- 1. Cloning the repository by using command ```git clone Self-Driving-Car-Engineer-Nanodegree-Program--Project5 ```.
+ 1. Cloning the repository by using command ```git clone Self-Driving-Car-Engineer-Nanodegree-Program--Project3 ```.
  
  2. Make changes and run the command ```git status``` for changed in local repository.
  
