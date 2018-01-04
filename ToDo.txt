@@ -2,3 +2,5 @@
 1.setup all the things as per requirement
 2. Project Resource here for Windows 10.
 3. Add the data for the same.
+4. train on the dat donload from the repository.
+5. then run on the 
