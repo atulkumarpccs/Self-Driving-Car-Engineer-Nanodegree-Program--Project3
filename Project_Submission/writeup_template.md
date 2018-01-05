@@ -91,7 +91,7 @@ BGR:<br/>
 <img src="/Images/BGR.png">
 
 RGB:<br/>
-<img src="Images/RGB.png">
+<img src="/Images/RGB.png">
 
 
 The third technique is to flip the image and change the angle. i.e if an angle is positive, flipping will change the angle to negative and vice versa.
@@ -104,11 +104,11 @@ def flip_img_angle(image, angle):
 
 Actual angle: -0.3012811<br/>
 Actual image:<br/>
-<img src="Images/actual_image.png">
+<img src="/Images/actual_image.png">
 
 Flipped angle: 0.3012811<br/>
 Flipped image:<br/>
-<img src="Images/flipped_image.png">
+<img src="/Images/flipped_image.png">
 
 The fourth technique used to translate the image and modify the angle accordingly. Same as any data augumentation, this can help the model to generalise so that it can handle uncertainties.
 
