@@ -9,8 +9,8 @@ import numpy as np
 import pandas as pd
 
 # Paths
-PATH_TO_IMG = 'drive_data/IMG/'
-PATH_TO_CSV = 'drive_data/driving_log.csv'
+PATH_TO_IMG = '/drive_data/IMG/'
+PATH_TO_CSV = '/drive_data/driving_log.csv'
 
 # Shape
 INPUT_SHAPE = (160, 320, 3)
