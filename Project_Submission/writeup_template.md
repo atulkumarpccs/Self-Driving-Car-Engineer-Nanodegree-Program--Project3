@@ -311,7 +311,7 @@ python drive.py model.h5 video
 
 * Images can be resized.
 * Model can be trained for the second track so that car can navigate on both tracks.
-* As source code for the simulator is open source so new tearrin can be added for more configuration .
+* As source code for the simulator is open source so new terrain like Rockyand snow can be added for more configuration .
 
 
 
