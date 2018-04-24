@@ -58,7 +58,7 @@ The major differences from actual architure are:
 
 I have used 5 data augumenation techniques.
 
-In order to avoid the overfitting, left & right images are randomly selected and adjusted their angle as if it was on the centre. During the autonomus testing, center image is only considered. This is the reason why if the left or right images are selected, steering angle are adjusted. CORRECTION value is found out by trial and error method and best suited value for this model is `25`.
+In order to avoid the overfitting, left and right images are randomly selected and adjusted their angle as if it was on the centre. During the autonomus testing, center image is only considered. This is the reason why if the left or right images are selected, steering angle are adjusted. CORRECTION value is found out by trial and error method and best suited value for this model is `25`.
 
 ```
 # Randomly selecting the left, right, and center images
