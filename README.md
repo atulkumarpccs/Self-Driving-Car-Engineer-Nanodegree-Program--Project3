@@ -203,6 +203,7 @@ Complete the Setup instructions.
     <https://www.youtube.com/watch?v=rpxZ87YFg0M&feature=youtu.be>
 
 2. Slack Channel
-<#s-t1-p-behavioral-clo>
+
+   <#s-t1-p-behavioral-clo>
 
 
