@@ -194,4 +194,15 @@ Complete the Setup instructions.
  5. Check the github repository if you done change on github ```git pull origin master```
  
  6. Push your code by ```git push origin master```
+ 
+ 
+ ### Project Support :
+ 
+1. Udacity Link showcasing how to start working on this
+
+<https://www.youtube.com/watch?v=rpxZ87YFg0M&feature=youtu.be>
+
+2. Slack Channel
+<#s-t1-p-behavioral-clo>
+
 
