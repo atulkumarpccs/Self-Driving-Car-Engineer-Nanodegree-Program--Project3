@@ -111,7 +111,8 @@ def get_model():
     model.add(Dropout(0.5))
     model.add(Dense(100, activation="elu"))
     model.add(Dense(50, activation="elu"))
-    model.add(Dense(10, activation="elu"))
+    model.add(Dense
+              (10, activation="elu"))
     model.add(Dense(1))
 
     adam = Adam(lr=LEARNING_PARAMETER)
