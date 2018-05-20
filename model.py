@@ -9,8 +9,8 @@ import numpy as np
 import pandas as pd
 
 # Paths
-PATH_TO_IMG = '/drive_data/IMG/'
-PATH_TO_CSV = '/drive_data/driving_log.csv'
+PATH_TO_IMG = 'data/IMG/'
+PATH_TO_CSV = 'data/driving_log.csv'
 
 # Shape
 INPUT_SHAPE = (160, 320, 3)
@@ -111,7 +111,8 @@ def get_model():
     model.add(Dropout(0.5))
     model.add(Dense(100, activation="elu"))
     model.add(Dense(50, activation="elu"))
-    model.add(Dense(10, activation="elu"))
+    model.add(Dense
+              (10, activation="elu"))
     model.add(Dense(1))
 
     adam = Adam(lr=LEARNING_PARAMETER)
