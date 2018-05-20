@@ -2,15 +2,15 @@ from keras.models import Sequential, Model
 from keras.layers import Lambda, Cropping2D, Convolution2D, ELU, Flatten, Dense, Dropout
 from keras.preprocessing.image import ImageDataGenerator
 from keras.optimizers import Adam
-from random import shuffle
+from mkl_random import shuffle
 import os
 import cv2
 import numpy as np
 import pandas as pd
 
 # Paths
-PATH_TO_IMG = '/drive_data/IMG/'
-PATH_TO_CSV = '/drive_data/driving_log.csv'
+PATH_TO_IMG = 'data/IMG/'
+PATH_TO_CSV = 'data/driving_log.csv'
 
 # Shape
 INPUT_SHAPE = (160, 320, 3)

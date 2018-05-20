@@ -5,7 +5,7 @@ import argparse
 def main():
     parser = argparse.ArgumentParser(description='Create driving video.')
     parser.add_argument(
-        'image_folder',
+        'Images',
         type=str,
         default='',
         help='Path to image folder. The video will be created from these images.'
