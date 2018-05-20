@@ -2,7 +2,7 @@ from keras.models import Sequential, Model
 from keras.layers import Lambda, Cropping2D, Convolution2D, ELU, Flatten, Dense, Dropout
 from keras.preprocessing.image import ImageDataGenerator
 from keras.optimizers import Adam
-from mkl_random import shuffle
+from random import shuffle
 import os
 import cv2
 import numpy as np
